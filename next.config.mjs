@@ -3,7 +3,10 @@ const nextConfig = {
     images: {
         domains: [
             "fakestoreapi.com",
-            "webdeasy.de"
+            "png.pngtree.com",
+            "cdn.icon-icons.com",
+            "cdn-icons-png.flaticon.com",
+            "cdn-icons-png.freepik.com"
         ]
     }
 };

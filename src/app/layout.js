@@ -1,4 +1,4 @@
-
+import styles from "./componentes/header.module.css"
 
 export const metadata = {
   title: "Meu Shop.com",
@@ -8,7 +8,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body className={styles.body}>{children}</body>
     </html>
   );
 }
