@@ -9,7 +9,7 @@ export default function Footer() {
                     <li>
                         <Image
                             src={"https://static.vecteezy.com/system/resources/previews/018/930/691/non_2x/instagram-logo-instagram-icon-transparent-free-png.png"}
-                            width={24} height={24} alt='Logo'
+                            width={24} height={24} alt='Ícone Instagram'
                         />
                         Instagram
                     </li>
@@ -17,7 +17,7 @@ export default function Footer() {
                     <li>
                         <Image
                             src={"https://static.vecteezy.com/system/resources/previews/018/930/698/original/facebook-logo-facebook-icon-transparent-free-png.png"}
-                            width={24} height={24} alt='Logo'
+                            width={24} height={24} alt='Ícone Facebook'
                         />
                         Facebook
                     </li>
@@ -25,7 +25,7 @@ export default function Footer() {
                     <li>
                         <Image
                             src={"https://static.vecteezy.com/system/resources/thumbnails/023/986/704/small_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png"}
-                            width={24} height={24} alt='Logo'
+                            width={24} height={24} alt='Ícone Youtube'
                         />
                         Youtube
                     </li>
