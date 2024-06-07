@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #dad6d6;
+    box-shadow: 8px 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.content {
+    padding: 20px;
+}
+
+.lista {
+    display: flex;
+    list-style: none;
+    padding: 20px;
+    margin: 0;
+}
+
+.lista li {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.lista li:hover {
+    color: blue;
+}
+
+.paragrafo {
+    margin-right: 150px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}

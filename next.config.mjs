@@ -7,7 +7,8 @@ const nextConfig = {
             "cdn.icon-icons.com",
             "cdn-icons-png.flaticon.com",
             "cdn-icons-png.freepik.com",
-            "webdeasy.de"
+            "webdeasy.de",
+            "static.vecteezy.com"
         ]
     }
 };
